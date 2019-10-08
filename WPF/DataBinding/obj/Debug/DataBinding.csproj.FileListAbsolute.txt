@@ -1,0 +1,15 @@
+G:\Repositories\_NOT_ON_GIT\DataBinding\bin\Debug\DataBinding.exe.config
+G:\Repositories\_NOT_ON_GIT\DataBinding\bin\Debug\DataBinding.exe
+G:\Repositories\_NOT_ON_GIT\DataBinding\bin\Debug\DataBinding.pdb
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\MainWindow.g.cs
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\App.g.cs
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\MainWindow.baml
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.g.resources
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.exe
+G:\Repositories\_NOT_ON_GIT\DataBinding\obj\Debug\DataBinding.pdb

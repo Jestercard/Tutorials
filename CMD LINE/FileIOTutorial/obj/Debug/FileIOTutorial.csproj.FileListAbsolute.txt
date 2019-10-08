@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\bin\Debug\FileIOTutorial.exe.config
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\bin\Debug\FileIOTutorial.exe
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\bin\Debug\FileIOTutorial.pdb
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\obj\Debug\FileIOTutorial.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\obj\Debug\FileIOTutorial.exe
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\obj\Debug\FileIOTutorial.pdb
+G:\Repositories\_NOT_ON_GIT\FileIOTutorial\obj\Debug\FileIOTutorial.csprojAssemblyReference.cache

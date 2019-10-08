@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\obj\Debug\ClassesTutorial.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\obj\Debug\ClassesTutorial.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+G:\Repositories\_NOT_ON_GIT\ClassesTutorial\obj\Debug\ClassesTutorial.pdb

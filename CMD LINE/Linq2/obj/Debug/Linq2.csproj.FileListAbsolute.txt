@@ -1,0 +1,6 @@
+G:\Repositories\_NOT_ON_GIT\Tutorials\Linq2\bin\Debug\Linq2.exe.config
+G:\Repositories\_NOT_ON_GIT\Tutorials\Linq2\bin\Debug\Linq2.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\Linq2\bin\Debug\Linq2.pdb
+G:\Repositories\_NOT_ON_GIT\Tutorials\Linq2\obj\Debug\Linq2.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\Linq2\obj\Debug\Linq2.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\Linq2\obj\Debug\Linq2.pdb

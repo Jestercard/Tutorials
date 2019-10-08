@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\bin\Debug\IntrotoClasses.exe.config
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\bin\Debug\IntrotoClasses.exe
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\bin\Debug\IntrotoClasses.pdb
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\obj\Debug\IntrotoClasses.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\obj\Debug\IntrotoClasses.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\obj\Debug\IntrotoClasses.exe
+G:\Repositories\_NOT_ON_GIT\IntrotoClasses\obj\Debug\IntrotoClasses.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Radiobutton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Radiobutton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold" FontSize="20">Do You Like Me?</Label>
+        <RadioButton Margin="5" Checked="yes_checked">
+            <WrapPanel>
+                <Rectangle Fill="Green" Width="16" Height="16"/>
+                <TextBlock Text="Yes" Foreground="Green" Margin="5, 0, 0, 0"></TextBlock>
+            </WrapPanel>       
+        </RadioButton>
+        <RadioButton Margin="5" Checked="no_checked">
+            <WrapPanel>
+                <Rectangle Fill="Red" Width="16" Height="16"/>
+                <TextBlock Text="No" Foreground="Red" Margin="5, 0, 0, 0"></TextBlock>
+            </WrapPanel>       
+        </RadioButton>
+        <RadioButton Margin="5" IsChecked="True">
+            <WrapPanel>
+                <Image Source="G:\Repositories\_NOT_ON_GIT\Tutorials\Radiobutton\maybe.jpg" Width="55" Height="25" />
+            </WrapPanel>       
+        </RadioButton>
+        
+    </StackPanel>
+</Window>

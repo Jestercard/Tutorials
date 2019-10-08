@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\Interface\bin\Debug\Interface.exe.config
+G:\Repositories\_NOT_ON_GIT\Interface\bin\Debug\Interface.exe
+G:\Repositories\_NOT_ON_GIT\Interface\bin\Debug\Interface.pdb
+G:\Repositories\_NOT_ON_GIT\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Interface\obj\Debug\Interface.exe
+G:\Repositories\_NOT_ON_GIT\Interface\obj\Debug\Interface.pdb

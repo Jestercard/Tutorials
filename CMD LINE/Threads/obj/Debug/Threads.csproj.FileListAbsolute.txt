@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\bin\Debug\Threads.exe.config
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\bin\Debug\Threads.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\bin\Debug\Threads.pdb
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\obj\Debug\Threads.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\Threads\obj\Debug\Threads.pdb

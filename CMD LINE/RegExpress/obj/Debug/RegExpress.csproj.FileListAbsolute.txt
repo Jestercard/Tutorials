@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\RegExpress\bin\Debug\RegExpress.exe.config
+G:\Repositories\_NOT_ON_GIT\RegExpress\bin\Debug\RegExpress.exe
+G:\Repositories\_NOT_ON_GIT\RegExpress\bin\Debug\RegExpress.pdb
+G:\Repositories\_NOT_ON_GIT\RegExpress\obj\Debug\RegExpress.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\RegExpress\obj\Debug\RegExpress.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\RegExpress\obj\Debug\RegExpress.exe
+G:\Repositories\_NOT_ON_GIT\RegExpress\obj\Debug\RegExpress.pdb

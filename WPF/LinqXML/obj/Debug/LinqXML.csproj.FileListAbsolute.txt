@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\bin\Debug\LinqXML.exe.config
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\bin\Debug\LinqXML.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\bin\Debug\LinqXML.pdb
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\obj\Debug\LinqXML.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\obj\Debug\LinqXML.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\obj\Debug\LinqXML.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\LinqXML\obj\Debug\LinqXML.pdb

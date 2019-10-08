@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557881487 source:d:\inbox\coding_things\win32 api tutorial\main.cpp
+	<windows.h>
+	<stdlib.h>
+

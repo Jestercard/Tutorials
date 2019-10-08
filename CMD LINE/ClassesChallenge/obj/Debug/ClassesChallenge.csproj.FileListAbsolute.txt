@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\bin\Debug\ClassesChallenge.exe.config
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\bin\Debug\ClassesChallenge.exe
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\bin\Debug\ClassesChallenge.pdb
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\obj\Debug\ClassesChallenge.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\obj\Debug\ClassesChallenge.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\obj\Debug\ClassesChallenge.exe
+G:\Repositories\_NOT_ON_GIT\ClassesChallenge\obj\Debug\ClassesChallenge.pdb

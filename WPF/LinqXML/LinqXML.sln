@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqXML", "LinqXML.csproj", "{62390574-5F8A-4704-82EF-B6EE5A31094C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62390574-5F8A-4704-82EF-B6EE5A31094C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62390574-5F8A-4704-82EF-B6EE5A31094C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62390574-5F8A-4704-82EF-B6EE5A31094C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62390574-5F8A-4704-82EF-B6EE5A31094C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D282C8-6C5D-45EE-99A7-7C5037321B26}
+	EndGlobalSection
+EndGlobal

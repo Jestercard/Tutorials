@@ -1,0 +1,15 @@
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\bin\Debug\WPFTasks.exe.config
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\bin\Debug\WPFTasks.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\bin\Debug\WPFTasks.pdb
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\MainWindow.g.cs
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\App.g.cs
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks_MarkupCompile.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks_MarkupCompile.lref
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\MainWindow.baml
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.g.resources
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.Properties.Resources.resources
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.csproj.GenerateResource.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\WPFTasks\obj\Debug\WPFTasks.pdb

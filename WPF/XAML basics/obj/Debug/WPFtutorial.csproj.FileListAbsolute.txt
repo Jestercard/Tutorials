@@ -1,0 +1,15 @@
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\bin\Debug\WPFtutorial.exe.config
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\bin\Debug\WPFtutorial.exe
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\bin\Debug\WPFtutorial.pdb
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\MainWindow.g.cs
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\App.g.cs
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial_MarkupCompile.cache
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial_MarkupCompile.lref
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\MainWindow.baml
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.g.resources
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.Properties.Resources.resources
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.csproj.GenerateResource.cache
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.exe
+G:\Repositories\_NOT_ON_GIT\WPFtutorial\obj\Debug\WPFtutorial.pdb

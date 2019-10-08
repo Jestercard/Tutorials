@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPFTasks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTasks"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="MyButton" FontSize="32" Content="Button" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" Width="140" Height="62" Click="MyButton_Click2"/>
+        <WebBrowser Name="MyWebBrowser" HorizontalAlignment="Left" Height="329" Margin="195,57,0,0" VerticalAlignment="Top" Width="548"/>
+
+    </Grid>
+</Window>

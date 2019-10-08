@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\bin\Debug\LambdaTutorial.exe.config
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\bin\Debug\LambdaTutorial.exe
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\bin\Debug\LambdaTutorial.pdb
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\obj\Debug\LambdaTutorial.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\obj\Debug\LambdaTutorial.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\obj\Debug\LambdaTutorial.exe
+G:\Repositories\_NOT_ON_GIT\LambdaTutorial\obj\Debug\LambdaTutorial.pdb

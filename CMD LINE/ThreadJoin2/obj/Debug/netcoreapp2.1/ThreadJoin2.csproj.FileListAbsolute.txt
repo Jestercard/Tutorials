@@ -1,0 +1,11 @@
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\bin\Debug\netcoreapp2.1\ThreadJoin2.deps.json
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\bin\Debug\netcoreapp2.1\ThreadJoin2.runtimeconfig.json
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\bin\Debug\netcoreapp2.1\ThreadJoin2.runtimeconfig.dev.json
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\bin\Debug\netcoreapp2.1\ThreadJoin2.dll
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\bin\Debug\netcoreapp2.1\ThreadJoin2.pdb
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\obj\Debug\netcoreapp2.1\ThreadJoin2.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\obj\Debug\netcoreapp2.1\ThreadJoin2.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\obj\Debug\netcoreapp2.1\ThreadJoin2.AssemblyInfoInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\obj\Debug\netcoreapp2.1\ThreadJoin2.AssemblyInfo.cs
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\obj\Debug\netcoreapp2.1\ThreadJoin2.dll
+G:\Repositories\_NOT_ON_GIT\Tutorials\ThreadJoin2\obj\Debug\netcoreapp2.1\ThreadJoin2.pdb

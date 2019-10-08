@@ -1,0 +1,7 @@
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\bin\Debug\PolyTutorial.exe.config
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\bin\Debug\PolyTutorial.exe
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\bin\Debug\PolyTutorial.pdb
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\obj\Debug\PolyTutorial.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\obj\Debug\PolyTutorial.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\obj\Debug\PolyTutorial.exe
+G:\Repositories\_NOT_ON_GIT\PolyTutorial\obj\Debug\PolyTutorial.pdb

@@ -1,0 +1,15 @@
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\bin\Debug\ComboBox.exe.config
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\bin\Debug\ComboBox.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\bin\Debug\ComboBox.pdb
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\MainWindow.g.cs
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\App.g.cs
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox_MarkupCompile.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox_MarkupCompile.lref
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\MainWindow.baml
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.g.resources
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.exe
+G:\Repositories\_NOT_ON_GIT\Tutorials\ComboBox\obj\Debug\ComboBox.pdb
